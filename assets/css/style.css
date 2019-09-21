@@ -1,8 +1,4 @@
 body {
-    background-color: black
-
-}
-
-#game {
-    color: white;
+    background: linear-gradient(pink,grey) fixed;
+    
 }
